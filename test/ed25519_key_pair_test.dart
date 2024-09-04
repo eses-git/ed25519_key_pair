@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:cryptography/cryptography.dart';
-import 'package:ecc_ppk_management/ed25519_key_part.dart';
+import 'package:ecc_ppk_management/ed25519_key_pair.dart';
 
 void main() {
   group('Ed25519KeyPair', () {
