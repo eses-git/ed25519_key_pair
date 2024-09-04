@@ -1,0 +1,30 @@
+name: ecc_ppk_management
+description: A starting point for Dart libraries or applications
+version: 2.1.2
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.4.3
+
+# Add regular dependencies here.
+dependencies:
+   path: ^1.8.0
+   flutter:
+    sdk: flutter
+   pointycastle: ^3.7.4
+   flutter_secure_storage: ^9.2.2
+   mockito: ^5.0.16
+   build_runner: ^2.1.7
+   cryptography_flutter: ^2.3.2
+   encrypt: ^5.0.0
+
+
+
+
+
+
+dev_dependencies:
+  lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+  test: ^1.16.0
