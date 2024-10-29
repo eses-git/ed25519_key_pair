@@ -1,4 +1,4 @@
-import 'package:ecc_ppk_management/ed25519_key_pair.dart';
+import 'package:ed25519_key_pair/ed25519_key_pair.dart';
 import 'dart:convert';
 
 
